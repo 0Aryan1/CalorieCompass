@@ -1,4 +1,4 @@
-# Labl-IT
+# CalorieCompass
 # Food Label Analyzer
 
 A web application that analyzes food product labels and ingredients using AI to provide detailed nutritional insights and health recommendations.
